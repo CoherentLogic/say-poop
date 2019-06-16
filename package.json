@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/CoherentLogic/say-poop/issues"
   },
-  "homepage": "https://github.com/CoherentLogic/say-poop#readme"
+  "homepage": "https://github.com/CoherentLogic/say-poop#readme",
+  "dependencies": {
+    "say-letter-newline": "0.0.1",
+    "say-letter-o": "0.0.1",
+    "say-letter-p": "0.0.1",
+    "say-letter-period": "0.0.1"
+  }
 }
