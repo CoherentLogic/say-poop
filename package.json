@@ -1,6 +1,6 @@
 {
   "name": "say-poop",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Outputs \"poop\" to standard output.",
   "main": "index.js",
   "scripts": {
